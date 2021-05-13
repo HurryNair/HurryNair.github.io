@@ -103,26 +103,26 @@ content:
             Administering virtualized environments & ensuring high availability for top contract accounts for a fortune 500 organization
 
       - layout: left
-        title: Hewlett Packard Enterprise
-        link: https://www.hpe.com/us/en/home.html
-        # link_text: hpe.com
-        sub_title: Technical Solutions Consultant
-        caption: January 2020 - Present
+        title: Rousing Designs
+        link: http://www.rousingdesigns.com/
+        # link_text: rousingdesigns.com
+        sub_title: Junior Python Developer
+        caption: August 2019 - December 2019
         quote: >
-          SimpliVity CoE L2
+          Software Development
         description: | # this will include new lines to allow paragraphs
-            Administering virtualized environments & ensuring high availability for top contract accounts for a fortune 500 organization
+            Worked on automating sales lead generation, data cleaning, databases & machine learning
 
       - layout: left
         title: Hewlett Packard Enterprise
         link: https://www.hpe.com/us/en/home.html
         # link_text: hpe.com
-        sub_title: Technical Solutions Consultant
-        caption: January 2020 - Present
+        sub_title: Storage Consultant Intern
+        caption: January 2019 - May 2019
         quote: >
-          SimpliVity CoE L2
+          Global Deployment Services
         description: | # this will include new lines to allow paragraphs
-            Administering virtualized environments & ensuring high availability for top contract accounts for a fortune 500 organization
+            Storage system analysis and design to improve effectiveness, reduce costs and apply scalability to meet business needs, while keeping user data safe.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
