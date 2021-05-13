@@ -134,7 +134,9 @@ content:
         quote: >
           CGPA 8.59
         description: | # this will include new lines to allow paragraphs
-          Published an IEEE paper on lighting automation & smart lighting | Technovation 2018 winner | Literature club debate champion
+          - Published an IEEE paper on lighting automation & smart lighting
+          - Technovation 2018 winner
+          - Literature club debate champion
 
 
       - layout: left
@@ -153,16 +155,18 @@ content:
         quote: >
           Annual score 88%
         description: | # this will include new lines to allow paragraphs
-          Five time annual rank holder | Cricket championship runner up 2009
+          - Five time annual rank holder
+          - Cricket championship runner up 2009
   
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software engineering I also have a podcast. 
-      [Bengaluru techie talks](https://open.spotify.com/show/7prv8SJwgd6TeznI34y2sG)
+      Alongside my interests in software engineering I also have a blog & a podcast. 
+      - [Bengaluru techie talks](https://open.spotify.com/show/7prv8SJwgd6TeznI34y2sG)
+      - [O(1)](https://colab.research.google.com/drive/1KbqUKSwgLKOvu72JbVVNl7hv2JN_DZOy?usp=sharing)
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
