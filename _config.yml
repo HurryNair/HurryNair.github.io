@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Hari and I'm a technical solutions consultant with a flair for software development.
 
-  I am most skilled in: <mark>Python</mark> <mark>REST</mark> <mark>Virtualization</mark> and <mark>Containerization</mark>
+  I am most skilled in: <mark>Python</mark> <mark>Git</mark> <mark>REST</mark> <mark>Virtualization</mark> <mark>Containerization</mark> <mark>SQL</mark> <mark>Jenkins</mark> <mark>Datastructures</mark> and <mark>Algorithms</mark>
 
 content:
   - title: Projects # Title for the section
@@ -128,30 +128,41 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Dayananda Sagar University
+        caption: 2015 - 2019
+        sub_title: Electronics & Communication Engineering
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          CGPA 8.59
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Published an IEEE paper on lighting automation & smart lighting | Technovation 2018 winner | Literature club debate champion
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
+      - layout: left
+        title: St.Joseph's Pre-University College
+        caption: 2013 - 2015
+        sub_title: Electronics
+        quote: >
+          Annual score 84.9%
+        description: | # this will include new lines to allow paragraphs
+          VP literature club
+
+      - layout: left
+        title: Presidency High School
+        caption: 2001 - 2013
+        sub_title: Schooling
+        quote: >
+          Annual score 88%
+        description: | # this will include new lines to allow paragraphs
+          Five time annual rank holder | Cricket championship runner up 2009
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my interests in software engineering I also have a podcast. 
+      [Bengaluru techie talks](https://open.spotify.com/show/7prv8SJwgd6TeznI34y2sG)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
