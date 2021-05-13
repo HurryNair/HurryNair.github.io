@@ -93,7 +93,7 @@ content:
     content:
       - layout: left
         title: Hewlett Packard Enterprise
-        link: https://www.hpe.com/us/en/home.html
+        link: https://www.hpe.com
         # link_text: hpe.com
         sub_title: Technical Solutions Consultant
         caption: January 2020 - Present
@@ -115,7 +115,7 @@ content:
 
       - layout: left
         title: Hewlett Packard Enterprise
-        link: https://www.hpe.com/us/en/home.html
+        link: https://www.hpe.com
         # link_text: hpe.com
         sub_title: Storage Consultant Intern
         caption: January 2019 - May 2019
