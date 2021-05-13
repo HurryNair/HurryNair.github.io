@@ -88,6 +88,22 @@ content:
         description: | # this will include new lines to allow paragraphs
           Python library and Command Line Interface (CLI) for creation, administration & management of HPE Container Platform (HPECP)
         
+      - layout: top-middle
+        title: ML classifier for Lighting fixture
+        link: github.com/HurryNair/Lighting-fixture-classifier.git
+        # link_text: Project Website
+        additional_links:
+          - title: HurryNair/Lighting-fixture-classifier
+            icon: fab fa-github
+            url: https://github.com/HurryNair/Lighting-fixture-classifier.git
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Lighting fixture classifier
+        description: | # this will include new lines to allow paragraphs
+          A transfer learning based image classifier for lighting fixtures
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -111,7 +127,7 @@ content:
         quote: >
           Software Development
         description: | # this will include new lines to allow paragraphs
-            Worked on automating sales lead generation, data cleaning, databases & machine learning
+            Worked on automating sales lead generation, data cleaning, databases & machine learning. 
 
       - layout: left
         title: Hewlett Packard Enterprise
@@ -135,6 +151,7 @@ content:
           CGPA 8.59
         description: | # this will include new lines to allow paragraphs
           - Published an IEEE paper on lighting automation & smart lighting
+          - Built a pill dispenser that helps Old Age care homes automate pill distribution
           - Technovation 2018 winner
           - Literature club debate champion
 
@@ -146,7 +163,7 @@ content:
         quote: >
           Annual score 84.9%
         description: | # this will include new lines to allow paragraphs
-          VP literature club
+          - VP literature club
 
       - layout: left
         title: Presidency High School
