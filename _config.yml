@@ -57,21 +57,37 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Hyperconverged infrastructure monitoring tool
+        link: github.com/simplivity-prometheus-connector
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: HurryNair/simplivity-prometheus-connector
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/HurryNair/simplivity-prometheus-connector.git
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Prometheus Connector for HPE SimpliVity
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Containerized hyperconverged infrastructure monitoring tool using Python, Docker, vmware, Prometheus, Grafana & REST APIs
 
+      - layout: top-middle
+        title: Hyperconverged infrastructure monitoring tool
+        link: github.com/simplivity-prometheus-connector
+        # link_text: Project Website
+        additional_links:
+          - title: HurryNair/simplivity-prometheus-connector
+            icon: fab fa-github
+            url: https://github.com/HurryNair/simplivity-prometheus-connector.git
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Prometheus Connector for HPE SimpliVity
+        description: | # this will include new lines to allow paragraphs
+          Containerized hyperconverged infrastructure monitoring tool using Python, Docker, vmware, Prometheus, Grafana & REST APIs
+        
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
