@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Hari and I'm a technical solutions consultant with a flair for software development.
+  Hi, my name is Hari and I'm a technical solutions consultant with a flair for datastructures, algorithms & software development.
 
   I am most skilled in: <mark>Python</mark> <mark>Git</mark> <mark>REST</mark> <mark>Virtualization</mark> <mark>Containerization</mark> <mark>SQL</mark> <mark>Jenkins</mark> <mark>Datastructures</mark> and <mark>Algorithms</mark>
 
