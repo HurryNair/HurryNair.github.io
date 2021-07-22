@@ -178,9 +178,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software engineering I also have a blog & a YouTube channel.
-      - [O(1)](https://colab.research.google.com/drive/1KbqUKSwgLKOvu72JbVVNl7hv2JN_DZOy?usp=sharing) 
-      - [The Programming Channel](https://www.youtube.com/channel/UCBontgucOJVieImCi3cAx0Q)
+      Alongside my interests in software engineering I also have a blog
+      - [O(1)](https://colab.research.google.com/drive/1KbqUKSwgLKOvu72JbVVNl7hv2JN_DZOy?usp=sharing)
 
 # Footer
 footer_show_references: true
