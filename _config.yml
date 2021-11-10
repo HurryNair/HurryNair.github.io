@@ -107,12 +107,24 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+	
+	  - layout: left
+        title: Hewlett Packard Enterprise
+        link: https://www.hpe.com
+        # link_text: hpe.com
+        sub_title: Software Development Engineer
+        caption: September 2021 - Present
+        quote: >
+          GMS Engineering
+        description: | # this will include new lines to allow paragraphs
+            Developing monitoring, dashboarding and reporting utilities to enable service delivery administer, support and maintain our as-a-service infrastructure in a proactive and efficient manner
+
       - layout: left
         title: Hewlett Packard Enterprise
         link: https://www.hpe.com
         # link_text: hpe.com
         sub_title: Technical Solutions Consultant
-        caption: January 2020 - Present
+        caption: January 2020 - August 2021
         quote: >
           SimpliVity CoE L2
         description: | # this will include new lines to allow paragraphs
