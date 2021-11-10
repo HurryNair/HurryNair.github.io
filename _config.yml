@@ -108,7 +108,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
 	
-	  - layout: left
+      - layout: left
         title: Hewlett Packard Enterprise
         link: https://www.hpe.com
         # link_text: hpe.com
