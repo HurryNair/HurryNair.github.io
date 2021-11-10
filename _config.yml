@@ -116,7 +116,7 @@ content:
         quote: >
           GMS Engineering
         description: | # this will include new lines to allow paragraphs
-            Developing monitoring, dashboarding and reporting utilities to enable service delivery administer, support and maintain our as-a-service infrastructure in a proactive and efficient manner
+            Developing observability & monitoring utilities that enable proactive support and efficient administration of exabyte storage, compute and networking infrastructures in our as-a-service offerings
 
       - layout: left
         title: Hewlett Packard Enterprise
