@@ -48,16 +48,16 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Hari and I'm a technical solutions consultant with a flair for datastructures, algorithms & software development.
+  Hi, my name is Hari and I'm a software development engineer with a flair for datastructures & algorithms.
 
-  I am most skilled in: <mark>Python</mark> <mark>Git</mark> <mark>REST</mark> <mark>Virtualization</mark> <mark>Containerization</mark> <mark>SQL</mark> <mark>Jenkins</mark> <mark>Datastructures</mark> and <mark>Algorithms</mark>
+  I am most skilled in: <mark>Python</mark> <mark>Git</mark> <mark>REST</mark> <mark>Virtualization</mark> <mark>Containerization</mark> <mark>SQL</mark> <mark>Jenkins</mark> and <mark>Elastic</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Hyperconverged infrastructure monitoring tool
+        title: Datacenter monitoring, reporting & dashboarding utility
         link: github.com/simplivity-prometheus-connector
         # link_text: Project Website
         additional_links:
@@ -68,7 +68,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Prometheus Connector for HPE SimpliVity
+          Observability and monitoring tool for an HCI based Simplivity datacenter
         description: | # this will include new lines to allow paragraphs
           Containerized hyperconverged infrastructure monitoring tool using Python, Docker, vmware, Prometheus, Grafana & REST APIs
 
