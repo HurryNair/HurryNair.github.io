@@ -116,7 +116,7 @@ content:
         quote: >
           GMS Engineering
         description: | # this will include new lines to allow paragraphs
-            Developing observability & monitoring utilities that enable proactive support and efficient administration of exabyte storage, compute and networking infrastructures in our as-a-service offerings
+            Developing observability & monitoring utilities that enable proactive support and efficient administration of exabyte storage, compute and networking infrastructures for HPE GreenLake Managed Services
 
       - layout: left
         title: Hewlett Packard Enterprise
