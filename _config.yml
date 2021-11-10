@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Hari and I'm a software development engineer with a flair for datastructures & algorithms.
+  Hi, my name is Hari and I am a software programmer with a flair for algorithms & their applications in solving real-world problems.
 
-  I am most skilled in: <mark>Python</mark> <mark>Git</mark> <mark>REST</mark> <mark>Virtualization</mark> <mark>Containerization</mark> <mark>SQL</mark> <mark>Jenkins</mark> and <mark>Elastic</mark>
+  I am most skilled in: <mark>Python</mark> <mark>Git</mark> <mark>REST APIs</mark> <mark>Virtualization</mark> <mark>Containerization</mark> <mark>Prometheus</mark> <mark>Jenkins</mark> and <mark>ELK</mark>
 
 content:
   - title: Projects # Title for the section
